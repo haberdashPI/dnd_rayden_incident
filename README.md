@@ -1,6 +1,6 @@
 # The Rayden Incident
 
-This is a D&D campaign I'm playing with some friends. Github has a good platform for a wiki and discussion forum, so I thought it might work well for this use case.
+This is a D&D campaign I'm playing with some friends. Github has some handy features, so I thought it might work well for this use case.
 
 ## Features
 
